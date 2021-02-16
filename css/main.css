@@ -18,7 +18,7 @@ h1{
   font-family: Times;
 }
 
-p.intro {
+body {
   font-size: 2em;
   line-height: 1.25;
   padding: 1em;
