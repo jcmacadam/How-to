@@ -4,6 +4,16 @@ img {
   height: auto;
 }
 
-   body {
-      background-color: #2528;
+ body {
+      background-color: #464342;
     }
+
+body {color:#b7cfc3;}
+
+body {
+  font-family: Times; 
+}
+
+h1{
+  font-family: Times;
+}
