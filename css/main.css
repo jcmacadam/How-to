@@ -29,6 +29,6 @@ body {
 img {
   border: 5px solid #b7cfc3;
 
-  a {
+  a: link {
   color: #f0a924;
 }
