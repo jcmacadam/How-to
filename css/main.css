@@ -32,3 +32,10 @@ img {
   a: link {
   color: #f0a924;
 }
+
+dd {
+  display: list-item;
+  list-style-type: "🐟";
+  padding-inline-start: 1ch;
+}
+    
