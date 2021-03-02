@@ -38,4 +38,8 @@ dd {
   list-style-type: "🐟";
   padding-inline-start: 1ch;
 }
-    
+
+a::before {
+  content: "🎣";
+}
+  
